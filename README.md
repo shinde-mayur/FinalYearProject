@@ -8,3 +8,7 @@
 
 "main.py" contain flask server
 
+
+## Steps for executing
+
+Download dataset from https://github.com/spMohanty/PlantVillage-Dataset
