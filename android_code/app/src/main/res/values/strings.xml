@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pytopath</string>
+    <string name="capture_image">प्रतिमा कॅप्चर करा</string>
+    <string name="pick_image">प्रतिमा निवडा</string>
+</resources>
